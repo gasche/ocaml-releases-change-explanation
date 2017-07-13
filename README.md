@@ -15,7 +15,7 @@ page](../../wiki/).
 List of releases with extra information:
 
 - 4.04.0: [4.04.0 change explanation page](../../wiki/4.04.0-changes-explanation)
-
+- 4.05.0: [4.05.0 change explanation page](../../wiki/4.05.0-changes-explanation)
 
 For any question or comment, on the general process or on a change
 item of a specific release, please feel free to [open an
